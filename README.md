@@ -27,7 +27,7 @@ To understand and practice the **fundamentals of CSS**, including:
 
 ## 💻 Preview
 You can check my live project here ⬇️  
-👉 [**See Demo on GitHub Pages**](https://github.com/Raffida-xi-rpl/learn-html-css-modul-0.2.git)
+👉 [**See Demo on GitHub Pages**](https://raffida-xi-rpl.github.io/learn-html-css-modul-0.2/).
 
 ---
 
@@ -46,6 +46,6 @@ From `<p>` tags to fancy fonts, it’s all about making web pages *look alive* �
 
 ---
 
-> 💬 *“CSS is like makeup for your website — a few lines and everything looks prettier 💅”*
+> 💬 *“CSS is like makeup for your website a few lines and everything looks prettier 💅”*
 
 ---
