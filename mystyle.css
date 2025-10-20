@@ -1,0 +1,9 @@
+.blue-section {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.blue-section h1 {
+  color: navy;
+  margin-left: 20px;
+}
