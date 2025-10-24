@@ -1,7 +1,7 @@
 h1 {
   text-align: center;
   color: red;
-  border: 15px solid blue;
+  border: 15px solid palevioletred;
 }
 
 pre {
@@ -13,7 +13,7 @@ pre {
   display: inline-block;
   position: relative;
   padding: 20px 40px;
-  border: 3px solid pink;
+  border: 3px dotted pink;
   border-radius: 20px;
   font-size: 18px;
   background-color: #fff;
@@ -41,4 +41,27 @@ pre {
 
 p {
   text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: palevioletred;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+}
+
+nav ul li a:hover {
+  background-color: #555;
 }
